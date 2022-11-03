@@ -2,12 +2,12 @@ ul{
     list-style: none;
 }
 
-.rectangulo1{
-    background-color: rgba(245, 200, 0);
+.junto{
+    background-color: rgb(255, 187, 0, 0.26);
 }
 
-.rectangulo2{
-    background-color: rgb(255, 187, 0, 0.26);
+h1{
+    background-color: rgba(245, 200, 0);
 }
 
 h2{
