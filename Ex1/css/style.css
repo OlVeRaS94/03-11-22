@@ -1,3 +1,9 @@
+@import url('https://fonts.cdnfonts.com/css/courgette');
+
 .rectangulo{
     background-color: rgb(136, 216, 208);
+}
+
+h2,h3{
+font-family: 'Courgette', sans-serif;
 }
