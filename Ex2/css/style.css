@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(124, 255, 153);
+}
+
+h1{
+    color: blueviolet;
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    color: rgb(255, 0, 247);
+    font-size: 150%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
