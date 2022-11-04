@@ -5,7 +5,7 @@
   border-right-width: 7px;
   border-bottom-width: 15px;
   border-left-width: 4px;
-}
+} 
 
 .cuadrado2 {
   margin: 1px;
@@ -26,7 +26,12 @@ h2 {
   color: rgb(255, 204, 0);
 }
 
+.izquierda{
+  display: flex;
+}
+
 .cuadrado3 {
+  align-items: center;
   margin: 20px;
   padding: 20px;
   border: 0.5px solid #cdc6c6;
