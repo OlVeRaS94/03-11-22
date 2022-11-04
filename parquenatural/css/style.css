@@ -27,7 +27,12 @@ h2 {
 }
 
 .izquierda{
+  list-style: none;
   display: flex;
+}
+
+.inicio{
+  background-color: green;
 }
 
 .cuadrado3 {
