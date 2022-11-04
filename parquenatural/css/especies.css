@@ -2,12 +2,11 @@
   font-family: Lucida Sans Unicode;
   border: solid #cdc6c6;
   border-top-width: 7px;
-  border-right-width: 7px;
-  border-bottom-width: 15px;
+  border-right-width: 5px;
+  border-bottom-width: 7px;
   border-bottom-color: cdc6c6;
-  border-left-width: 4px;
+  border-left-width: 5px;
 }
-
 .cuadrado2{
     margin: 1px;
     padding: 1px;
@@ -35,8 +34,10 @@ h2 {
 }
 
 
-
 .parque {
     color: lime;
   border-bottom: 1px solid lime;
+}
+h4{
+    color: rgb(165, 124, 42);
 }
