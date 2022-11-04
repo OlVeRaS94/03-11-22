@@ -4,27 +4,25 @@
   border-top-width: 7px;
   border-right-width: 5px;
   border-bottom-width: 7px;
-  border-bottom-color: cdc6c6;
   border-left-width: 5px;
 }
-.cuadrado2{
-    margin: 1px;
-    padding: 1px;
-    border: 0.5px solid #cdc6c6;
-
+.cuadrado2 {
+  margin: 1px;
+  padding: 1px;
+  border: 0.5px solid #cdc6c6;
 }
 
 h2 {
-    letter-spacing: 5px;
+  letter-spacing: 5px;
   text-align: center;
 }
 
-.natural{
-    color: green;
+.natural {
+  color: green;
 }
 
-.sierra{
-    color: rgb(255, 204, 0);
+.sierra {
+  color: rgb(255, 204, 0);
 }
 
 .cuadrado3 {
@@ -33,11 +31,10 @@ h2 {
   border: 0.5px solid #cdc6c6;
 }
 
-
 .parque {
-    color: lime;
+  color: lime;
   border-bottom: 1px solid lime;
 }
-h4{
-    color: rgb(165, 124, 42);
+h4 {
+  color: rgb(165, 124, 42);
 }
