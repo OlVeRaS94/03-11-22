@@ -1,0 +1,30 @@
+ul{
+    list-style: none;
+}
+
+.rectangulo1{
+    background-color: rgba(245, 200, 0);
+}
+
+.rectangulo2{
+    background-color: rgb(255, 187, 0, 0.26);
+}
+
+h2{
+    color: rgb(0, 153, 255);
+    font-style: italic;
+}
+
+
+h3{
+    color: rgb(90, 192, 158);
+}
+
+.cursiva{
+    font-style: italic;
+    color: rgb(0, 128, 85);
+}
+span{
+    font-style: normal;
+    color: black;
+}
